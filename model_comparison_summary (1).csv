@@ -1,0 +1,3 @@
+Model,Accuracy
+Random Forest (Tuned),1.0
+XGBoost (Weighted + Tuned),1.0
